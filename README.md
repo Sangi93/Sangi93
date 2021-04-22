@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sangi93
+- 👋 Hi, I’m @Sangi93/Sangita
 - 👀 I’m interested in Java Coding
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java Project 
